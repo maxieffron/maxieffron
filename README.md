@@ -1,8 +1,6 @@
 <div align="center">
-<img src="Hello_World.gif" style="width: 100%;" />
-</div>  
-<h1 align="center">I'm Maximiliano Effron</h1>
-<h3 align="center">Frontend Developer Jr.</h3>
+<img src="Hello.jpg" style="width: 100%;" />
+</div>
 
 <h3 align="left">I'm Systems Analyst with more than 13 years of experience in analysis and software development.
 Passionate about technology, versatile, proactive, methodical, constantly looking for new challenges and always looking for continuous improvement for myself and my team.</h3>
@@ -31,7 +29,7 @@ Passionate about technology, versatile, proactive, methodical, constantly lookin
 <p align="left"> - Tortoise SVN </p>
 <p align="left"> - Basic knowledge about Aodbe XD </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">If you want to know more about my profile, connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maximiliano-effron-63407b142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maximiliano-effron-63407b142/" height="30" width="40" /></a>
 </p>
