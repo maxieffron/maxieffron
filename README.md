@@ -27,7 +27,7 @@ Passionate about technology, versatile, proactive, methodical, constantly lookin
 <p align="left"> - C++: Used only to make dll library's to use with Pervasive database. </p>
 <p align="left"> - Visual Studio Code </p>
 <p align="left"> - Tortoise SVN </p>
-<p align="left"> - Basic knowledge about Aodbe XD </p>
+<p align="left"> - Basic knowledge about Adobe XD </p>
 
 <h3 align="left">If you want to know more about my profile, connect with me:</h3>
 <p align="left">
