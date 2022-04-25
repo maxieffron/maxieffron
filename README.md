@@ -2,7 +2,7 @@
 <img src="Hello.jpg" style="width: 100%;" />
 </div>
 
-<h3 align="left">I'm Systems Analyst with more than 13 years of experience in analysis and software development.
+<h3 align="left">I'm Systems Analyst and developer with more than 13 years of experience in analysis and software development.
 Passionate about technology, versatile, proactive, methodical, constantly looking for new challenges and always looking for continuous improvement for myself and my team.</h3>
 
 - 🌱 I’m currently learning **Javascript**
